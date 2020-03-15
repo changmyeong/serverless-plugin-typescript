@@ -1,6 +1,7 @@
 {
-  "name": "serverless-plugin-typescript",
+  "name": "@itamgames/serverless-plugin-typescript",
   "version": "0.0.0-semantic-release",
+  "author": "itamgames",
   "license": "MIT",
   "main": "dist/src/index.js",
   "files": [
@@ -18,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prisma/serverless-plugin-typescript.git"
+    "url": "git+https://github.com/itamgames/serverless-plugin-typescript.git"
   },
   "keywords": [
     "serverless",
