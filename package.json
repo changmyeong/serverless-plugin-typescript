@@ -1,6 +1,6 @@
 {
   "name": "@itamgames/serverless-plugin-typescript",
-  "version": "0.0.0-semantic-release",
+  "version": "0.0.1-semantic-release",
   "author": "itamgames",
   "license": "MIT",
   "main": "dist/src/index.js",
@@ -17,10 +17,6 @@
     "precommit": "npm run test",
     "pretest": "npm run lint",
     "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/itamgames/serverless-plugin-typescript.git"
   },
   "repository": "serverless/serverless-plugin-typescript",
   "keywords": [
